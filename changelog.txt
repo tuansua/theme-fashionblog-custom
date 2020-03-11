@@ -1,0 +1,140 @@
+v1.0.11 (May 23, 2018)
+-----------------------------
+- Added Contact Form
+- Added GDPR compliant comment & contact form
+ 
+Files Updated:
+- style.css
+- functions.php
+- comments.php
+- functions/theme-actions.php
+- page-contact.php
+
+
+v1.0.10 (Mar 29, 2018)
+-----------------------------
+- Fixed plugin install issue on "Install Required Plugins" page
+- Fixed php7 notices
+ 
+Files Updated:
+- style.css
+- functions.php
+- functions/plugin-activation.php
+- functions/tinymce/tinymce.php
+- js/addons.js
+- css/addons.css
+
+
+v1.0.9 (Apr 11, 2017)
+ -----------------------------
+-  Include Support tab in Theme Options Panel
+ - Fixed wrong field constructor args in the Options Panel
+ - changed textdomain of Theme Options Panel 
+ 
+ Files updated:
+ - style.css
+ - functions.php
+ - theme-options.php
+ - options/support.php
+ - options/options.php 
+ - options/css/options.css
+ - options/js/clipboard.min.js
+ - options/js/help.js
+
+
+v1.0.8 (Mar 22, 2017)
+-----------------------------
+- Improved theme internationalization
+
+Files updated:
+- functions.php
+- lang/default.mo
+- lang/default.po -> lang/mythemeshop.pot
+- style.css
+
+
+v1.0.7 (Jan 20, 2017)
+-----------------------------
+- One click demo importer improvements
+
+Files updated:
+- style.css
+- functions.php
+- options/demo-importer/
+
+
+v1.0.6 (Jan 12, 2017)
+-----------------------------
+- One click demo importer improvements
+
+Files updated:
+- style.css
+- functions.php
+- options/demo-importer/
+
+
+v1.0.5 (Oct 22, 2016)
+-----------------------------
+- One click demo importer improvements
+- Install Plugins page improvements
+
+Files updated:
+- style.css
+- functions.php
+- theme-presets.php
+- options/
+- lang/
+- functions/plugin-activation.php
+
+
+v1.0.4 (Sep 29, 2016)
+-----------------------------
+- Added one click demo importer
+- Updated image upload option field
+- Updated language files
+- Fixed PHP warnings
+
+Files updated:
+- style.css
+- functions.php
+- theme-presets.php
+- options/
+- lang/
+- functions/
+
+
+v1.0.3 (Mar 22, 2016)
+-----------------------------
+- Updated code on Recommended plugins page
+
+Files updated:
+- style.css
+- functions/plugin-activation.php
+- css/addons.css
+
+
+v1.0.2 (Mar 11, 2016)
+-----------------------------
+- Recommended plugins page changes
+
+Files updated:
+- style.css
+- functions.php
+- functions/plugin-activation.php
+- css/addons.css
+
+
+v1.0.1 (Feb 9, 2016)
+-----------------------------
+- Added recommended plugins page
+
+Files changed:
+- style.css
+- functions/plugin-activation.php
+- css/addons.css
+- js/addons.js
+
+
+v1.0 (Nov 23, 2012)
+-----------------------------
+- Theme Released
