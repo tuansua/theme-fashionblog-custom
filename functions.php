@@ -436,7 +436,7 @@ function ts_validate_file_upload($file) {
         $size = $size / 1024; // Calculate down to KB
 
         // set sizelimit
-        $limit = 150; // Your Filesize in KB
+        $limit = 100; // Your Filesize in KB
 
         if ( $size > $limit ) { // check if the image is small enough
             $file['error'] = 'Hình ảnh có kích thước quá lớn. Kích thước tối đa '.$limit.'KB. Vui lòng tối ưu tại https://compressor.io';
